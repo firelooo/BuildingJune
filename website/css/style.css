@@ -1,0 +1,38 @@
+    .MainHeader {
+        font-size: 30px !important;
+        color: black !important;
+        font-weight: bold !important;
+        text-align: center !important;
+    }     
+    .text {
+        font-size: 15px;
+        color: black;
+        font-weight: normal;
+        text-align: center;
+    }
+            
+    div.stButton > button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;  /* optional: control button width */
+        background-color: #B8BACF;
+        color: black;
+        font-weight: bold;
+    }
+            
+    div.stButton > button:hover {
+        background-color: #B8BACF;
+        cursor: pointer;
+    }
+
+    .main {
+        background-color: #E8EBE4;
+    }
+
+    .subheader {
+        font-size: 25px;
+        color: black;
+        font-weight: bold;
+        text-align: left;
+    }

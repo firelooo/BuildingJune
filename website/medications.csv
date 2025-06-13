@@ -1,0 +1,6 @@
+medication,date,dosage form,strength,storage,frequency,quantity,manufacturer,precautions,notes
+amlodipine,3/5/2024,tablets,10mg,20 to 25,once daily,1000,Marlex,medication should be out of the reach of children,protect from light
+ibuprofen,5/9/2024,tablets,400mg,22,twice a day if needed,50,HealthSci,"Dispense in a tight, light-resistant container",
+paracetamol,1/9/2024,liquid,30ml,21,thrice a day if needed,1,Axcel,Keep container tightly closed,
+omeprazole,3/4/2023,tablets,20mg,24,once daily every morning,70,Zenpro,Do not crush or chew,Take half to one hour before food
+polymaltose,4/5/2025,capsule,100mg,23,once every two days,80,Riak,Discard if unused by expire date,expensive
